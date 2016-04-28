@@ -1,0 +1,13 @@
+<ion-modal-view >
+    <ion-header-bar class="bar bar-header bar-calm">
+        <h1 class="title">select action</h1>
+        <button class="button button-clear button-primary" ng-click="modall.hide()">Cancel</button>
+    </ion-header-bar>
+    <ion-content >
+        <h4>Subject:</h4>
+        <label class="item item-input pad">
+            <input type='text' ng-model="aa"  placeholder='any special note??' ng-init="aa=' '">
+        </label>
+        <button class="button button-full button-calm" ng-click="add(aa);modall.hide()">Add</button>
+    </ion-content>
+</ion-modal-view>

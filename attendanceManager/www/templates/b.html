@@ -1,0 +1,18 @@
+<ion-view>
+    <ion-nav-buttons side="right">
+            <a style="padding:0 10px 0 0;position:right;" class="button button-icon  ion-android-add" title='login' ng-click="modall.show()"></a>
+    </ion-nav-buttons>
+    <ion-nav-buttons side="left">
+            <a style="padding:0 10px 0 0;position:right;" class="button button-icon icon ion-ios-minus-outline" title='login' ng-click="showDel()"></a>
+    </ion-nav-buttons>
+    <ion-content >
+        <ion-list show-delete="showDelete">
+          <ion-item class="item-remove-animate " ng-repeat="chat in subs" type="item-text-wrap" ng-click="click(chat)" >
+            <ion-delete-button class="ion-minus-circled" ng-click="delete(chat[0])"></ion-delete-button>
+            <h2>{{chat[0]}}</h2><br>
+            <h3>total:{{chat[3]}}% </h3>
+
+          </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>
