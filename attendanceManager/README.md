@@ -19,29 +19,34 @@ TECHNOLOGY STACK:
 
 --------------------------------------HOW T0 INSTALL---------------------------------------------------------------
 
+
 1)  To start with, make sure the ionic utility is installed:
 
         $ npm install -g ionic
 
 2)  Now we have to add a platform for ionic application to be build on. Remember Ionic is a hybrid mobile application          development software, we have to add platform and build it for that particular platform. To add android platform:
+
         $ ionic platform add android
 
 3)  Then we have to install all dependencies listed in package.json:
+
         $ ionic state restore
 
 4)  We are ready to go. We can test our application by:
+
         $ ionic serve
 
 5)  Build apk file by following command(this requires android sdk):
+
         $ ionic build android
 
 6)  To test in android device or emulator, we connect android device to the computer and run:
+
         $ ionic run android
 
 7)  The apk file can be found from '/platforms/android/build/outputs/apk/android-debug.apk' and can be manually installed..
 
-
------------------------------------------------     ABOUT ME          -----------------------------------------------
+---------------------------------------------  ABOUT ME     --------------------------------------------------
 
 
 DURATION OF INTERSHIP......................
@@ -53,7 +58,7 @@ I am Willing to move to bangalore for the internship.
 
 MY VIEW ABOUT FINOMENA.....................
 
-    Finomena is a fast growing finance based start-up company which provides access to flexible credit for youngsters which they cannot get normally. Finomena has brought revolution in India from the view of a borrower, for their personal and professional growth. We can buy anything with the FMI provided by Finomena. Now we can be financially independent and financially literate, thus revolutionizing the way banking is done today.
+    Finomena is a fast growing finance based start-up company which provides access to flexible credit for youngsters which they cannot get normally. Finomena has brought revolution in India from the view of a borrower, for their personal and professional growth. We can buy anything with the FMI provided by Finomena. Now we can be financially independent and financially literate, thus revolutionizing the way banking is done today. Its a really impressive idea to come up with and i would love to work for Finomena.
 
 
 
@@ -105,4 +110,3 @@ CHALLENGES FACED ON PREVIOUS PROJECTS.......................
 THINGS I LEARNED FROM MY INTERNSHIP........................
 
     Doing tasks in group is fun and "NOT TO GIVE UP ON ANYTHING, EVENTUALLY YOU WILL GET IT" as i felt like quitting sometime but pulled myself and did not quit.
-
