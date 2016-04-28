@@ -1,7 +1,4 @@
-
-
-
-** Idea is to make a attendancesheet manager which will ease the life of students and save them problem of wasting time       running before professors to know their attendance at times of exams(one of the problems which i faced). It can also be    extended to notify users about their timetable like this below example.
+** Name of the mobile application is "ATTENDANCE MANAGER". The idea is to manage attendance of students which will ease the    life of students and save them problem of wasting time running before professors to know their attendance at times of      exams(one of the problems which i faced). It can also be extended to notify users about their timetable like this below    example.
     - hey user, u have DBMS class tomorrow at 9:15.. would u like me to wake u up in the morning..    
 
 ** Can be used to show warning message when the attendance falls below a certain %age..
