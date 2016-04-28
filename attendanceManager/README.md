@@ -1,20 +1,22 @@
 
-**Idea is to make a attendancesheet manager which will ease the life of students and save them problem of wasting time running before professors to know their attendance at times of exams(one of the problems which i faced). It can also be extended to notify users about their timetable like this below example.
+
+
+** Idea is to make a attendancesheet manager which will ease the life of students and save them problem of wasting time       running before professors to know their attendance at times of exams(one of the problems which i faced). It can also be    extended to notify users about their timetable like this below example.
     - hey user, u have DBMS class tomorrow at 9:15.. would u like me to wake u up in the morning..    
 
-**can be used to show warning message when the attendance falls below a certain %age..
+** Can be used to show warning message when the attendance falls below a certain %age..
 
-**also can be used to find out how many classes can be bunked without any danger.
+** Also can be used to find out how many classes can be bunked without any danger.
 
-**sending inspirational quotes
+** Sending inspirational quotes
 
-**maintaining this reccord will be beneficial also for those who have not enough attendance to make it to xams as it would help them if they want to  provide fake medical leave which was earlier not possible because  profs refuse to show them the attendance registernot
+** Maintaining this reccord will be beneficial also for those who have not enough attendance to make it to xams as it would    help them if they want to provide fake medical leave which was earlier not possible because professors refuse to show      them the attendance registers to find out the dates for which they were absent.
 
-**authentication required to open the app , therefore friendship cant effect it.
+
 
 TECHNOLOGY STACK:
 
-1)Ionic framework for hybrid mobile app
+1)Ionic framework for hybrid mobile app 
 2)angularJS :- supported by Ionic
 
 --------------------------------------HOW T0 INSTALL---------------------------------------------------------------
